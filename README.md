@@ -1,2 +1,2 @@
-# weight-loss-calculator
-减肥计算器
+# weight-loss-tool
+减肥工具
